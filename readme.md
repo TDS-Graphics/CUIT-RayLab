@@ -1,7 +1,7 @@
 # RTX. It's ON!!!
 
 <p align="center">
-  <img src="image/convert.png" width="500"/>
+  <img src="image/convert.png" width="960" height="540"/>
 </p>
 
 这个原本是我给成信大计算机学院《计算机图形学A》课程设计的实验，这里也放在这里供大家参考学习。某些库看上去设计得有点💩，之后会迭代。
